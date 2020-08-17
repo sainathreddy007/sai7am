@@ -1,5 +1,9 @@
 class main()
 {
+ void withdraw()
+ {
+  bal = bal - amt
+ }
  void deposit()
  {
   bal = bal + amount
